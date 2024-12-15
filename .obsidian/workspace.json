@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "524fbed805f45d1b",
+        "id": "af34a923a384679a",
         "type": "tabs",
         "children": [
           {
-            "id": "638704ffef18b50c",
+            "id": "e28172c4b9745197",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "CS/算法.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "算法"
+            }
+          },
+          {
+            "id": "29bcd7e63bb5244d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/十.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "十"
             }
           }
         ]
@@ -76,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Git 的反向链接列表"
+              "title": "算法 的反向链接列表"
             }
           },
           {
@@ -142,8 +157,7 @@
               "title": "添加笔记属性"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,26 +175,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "638704ffef18b50c",
+  "active": "a0c9ab4c973e796b",
   "lastOpenFiles": [
+    "[.md",
     "CS/算法.md",
-    "README.md",
-    "CS/八.md",
     "CS/十.md",
-    "CS/7.md",
-    "CS/Docker.md",
+    "CS/八.md",
     "CS/六.md",
+    "CS/Docker.md",
     "CS/Git.md",
     "CS/Linux101.md",
     "CS/第5章.md",
+    "CS/61A.md",
+    "CS/7.md",
+    "README.md",
     "未命名.canvas",
     "2024-12-15.md",
-    "CS/61A.md",
     "工作/编译设计竞赛介绍.md",
     "工作/12.11.md",
     "工作/12.2-12.9.md",
     "工作/介绍.md",
-    "[.md",
     "().md",
     "课程/结课报告题目：从自编码器到生成网络——基于生成网络的大模型的研究现状和未来发展.md",
     "PPT/国产PLC.md",
