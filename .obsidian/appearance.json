@@ -1,0 +1,11 @@
+{
+  "translucency": true,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Fira Code,Consolas",
+  "interfaceFontFamily": "PingFang HK,Microsoft YaHei UI",
+  "textFontFamily": "PingFang HK,Microsoft YaHei",
+  "cssTheme": "Things",
+  "theme": "system",
+  "accentColor": "",
+  "baseFontSize": 19
+}
