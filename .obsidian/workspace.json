@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "40c6b9544d2d4a32",
+        "id": "524fbed805f45d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "090886aa8097443f",
+            "id": "638704ffef18b50c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -149,17 +152,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": true,
       "canvas:新建白板": true,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "090886aa8097443f",
+  "active": "a0c9ab4c973e796b",
   "lastOpenFiles": [
+    "README.md",
     "CS/八.md",
     "CS/算法.md",
     "CS/十.md",
@@ -191,7 +195,6 @@
     "Users",
     "工作",
     "CS",
-    "README.md",
     "CS/Git 1.md",
     "Pasted image 20241117181158.png",
     "Pasted image 20241117181120.png",
